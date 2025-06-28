@@ -7,6 +7,7 @@
   color: white;
 }
 
+/* index.hhtml */
 /* Barra de navegación */
 .navbar-brand {
   font-weight: bold;
@@ -23,11 +24,11 @@
 }
 
 .navbar > a {
-  color: white;
+  color: rgb(12, 11, 11);
 }
 
 .nav-link {
-  color: white;
+  color: rgb(12, 11, 11);
 }
 
 .navbar-toggler {
